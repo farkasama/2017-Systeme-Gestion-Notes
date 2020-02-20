@@ -1,0 +1,19 @@
+Ceci est le projet d'Etienne JOUANNE et Ismat BENOTSMANE du groupe L3 Info 2.
+
+Vous y trouverez les fichiers contenant les commandes, un dossier contenant les fichiers .CSM ainsi qu'un Makefile.
+
+Les fichiers contenant les commandes sont les suivante :
+options_commandes.c (regroupe les options -o, -s et -h)
+union.c (qui est la commande union)
+select.c (qui est la commande select)
+tri.c (qui est la commande tri)
+moyenne.c (qui est la commande moyenne)
+formatage.c (qui est la commande formatage)
+
+Apres avoir compile, vous aurez les memes noms de fichiers mais avec les extensions .o
+
+Toutes les fonctions ont ete reussi avec toutes les options possibles (normalement) sauf fusion que nous n'avons pas reussi a faire.
+
+Nous avons egalement commenter chaque fichier pour essayer de le rendre un peu plus comprehensible.
+
+PS: faite attention, dans le fichier Avengers_2.csm, il manque un champs a la fin du fichier (c'est fait expres).
